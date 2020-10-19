@@ -27,7 +27,7 @@ Kindly consider leaving a :star: if you like the repository and our organization
 
 > ## 📂&nbsp; RELEVANT TECHNOLOGIES
 >
-> Any web technology can be used
+> 1) Django - Backend
 
 > ## 💻&nbsp; GETTING STARTED
 
@@ -37,6 +37,7 @@ Kindly consider leaving a :star: if you like the repository and our organization
 
 ```bash
     1) git init -initializes the git repository from the GitHub.
-    2) git clone -Clone the repository to your local machine
-      (git clone https://github.com/<your-github-username>/HackclubVIT/AlumniTalks.git)
+    2) git remote add origin <git_URL> -sets a remote to Origin
+      (git remote add origin https://github.com/<your-github-username>/AlumniTalks.git)
+    3) git pull origin main -pulls main branch from origin
 ```
