@@ -28,6 +28,7 @@ Kindly consider leaving a :star: if you like the repository and our organization
 > ## 📂&nbsp; RELEVANT TECHNOLOGIES
 >
 > 1) Django - Backend
+> 2) PHP - Backend
 
 > ## 💻&nbsp; GETTING STARTED
 
